@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:21.02-py3
+ultralytics/yolov8:lates
