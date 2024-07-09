@@ -1,1 +1,2 @@
-ultralytics/yolov8:lates
+nginx
+
