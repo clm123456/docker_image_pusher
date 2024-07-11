@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:20.12-py3
+nvidia/cuda:11.6.1-base-ubuntu20.04
