@@ -1,1 +1,1 @@
-emqx/emqx:5.1
+openjdk:8-jre
