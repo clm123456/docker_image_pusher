@@ -1,1 +1,2 @@
-648540858/wvp_pro
+wvp-assist:latest
+wvp-talk:latest
