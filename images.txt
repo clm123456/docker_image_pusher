@@ -1,2 +1,1 @@
-wvp-assist:latest
-wvp-talk:latest
+emqx/emqx:v4.0.0
