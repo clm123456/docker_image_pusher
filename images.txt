@@ -1,1 +1,1 @@
-emqx/emqx:v4.0.0
+ubuntu:20.04
