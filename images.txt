@@ -1,1 +1,4 @@
-openjdk:11
+zlmediakit/zlmediakit:feature-dynamic_library
+zlmediakit/zlmediakit:master
+zlmediakit/zlmediakit:feature-test
+
