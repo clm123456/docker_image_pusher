@@ -1,3 +1,2 @@
-zlmediakit/zlmediakit:feature-dynamic_library
 zlmediakit/zlmediakit:master
 
