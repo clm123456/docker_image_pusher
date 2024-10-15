@@ -1,2 +1,2 @@
-ultralytics/ultralytics
+redis:latest
 
