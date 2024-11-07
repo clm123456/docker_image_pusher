@@ -1,1 +1,1 @@
-portainer/portainer-ce
+influxdb:1.8
