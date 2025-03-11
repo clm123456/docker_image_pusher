@@ -1,2 +1,2 @@
-colmap/colmap
+ultralytics/ultralytics:8.0.140
 
