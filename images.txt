@@ -1,1 +1,1 @@
-harisekhon/hbase
+node:20.18.3
