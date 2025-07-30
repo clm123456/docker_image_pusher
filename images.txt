@@ -1,1 +1,1 @@
-mysql:8.0.38
+centos:8
