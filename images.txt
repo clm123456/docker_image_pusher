@@ -1,1 +1,3 @@
-ubuntu:22.04
+postgres:13
+sonarqube:9.9-community
+gitlab/gitlab-runner:latest
