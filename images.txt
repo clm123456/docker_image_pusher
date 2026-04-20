@@ -1,3 +1,1 @@
-postgres:13
-sonarqube:9.9-community
-gitlab/gitlab-runner:latest
+sonarqube:10.6-community
