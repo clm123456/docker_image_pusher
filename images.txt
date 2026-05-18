@@ -1,1 +1,1 @@
-sonarqube:10.6-community
+dm8_single:latest
