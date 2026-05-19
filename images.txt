@@ -1,1 +1,1 @@
-dm8_single:latest
+node:20-alpine
