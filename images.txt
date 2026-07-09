@@ -1,4 +1,4 @@
-nginx:1.26.2-alpine
+redis:7.2-alpine
 
 
 
