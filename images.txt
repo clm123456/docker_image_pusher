@@ -1,1 +1,6 @@
-node:20
+nginx:1.26.2-alpine
+nacos/nacos-server:v2.3.2
+redis:7.2-alpine
+emqx/emqx:5.8.3
+dm8_single:v8.1.2.128_ent_x86_64_ctm_pack4
+eclipse-temurin:17-jre
