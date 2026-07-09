@@ -1,4 +1,4 @@
-redis:7.2-alpine
+emqx/emqx:5.8.3
 
 
 
